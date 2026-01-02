@@ -1,0 +1,22 @@
+{
+  "name": "chatgpt-tizen-ultra",
+  "version": "7.5.0",
+  "packageType": "mods",
+  "appName": "ChatGPT TV Ultra",
+  "websiteURL": "https://chatgpt.com",
+  "main": "mod.js",
+  "evaluateScriptOnDocumentStart": true,
+  "keys": [
+    "ArrowUp",
+    "ArrowDown",
+    "ArrowLeft",
+    "ArrowRight",
+    "Enter",
+    "Back",
+    "ColorF0Red",
+    "ColorF1Green",
+    "ColorF2Yellow",
+    "ColorF3Blue",
+    "MediaPlayPause"
+  ]
+}
